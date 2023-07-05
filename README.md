@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.linkedin.com/in/gabriel-siles/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -15,4 +15,4 @@
 </div>
 Hello! I'm a Computer Science and Software Engineering student with a passion for creating efficient and innovative solutions. With an understanding of various languages including C, C++, Java, Python, HTML, CSS, and Javascript, I'm working towards specializing in web development. My projects illustrate my journey in learning and integrating different technologies to build responsive and intuitive web applications. Feel free to browse through my work, and let's connect to create the future of tech together.
 
-https://www.linkedin.com/in/gabriel-siles/ https://github.com/gabrielsiles
+ https://github.com/gabrielsiles
