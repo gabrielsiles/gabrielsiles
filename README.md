@@ -23,6 +23,7 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
+
   .github-button:hover {
     background-color: #111;
   }
