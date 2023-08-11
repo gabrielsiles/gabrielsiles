@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Gabriel Siles</h1>
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Software+Engineer+;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </div>
@@ -16,8 +17,8 @@
 
 <p>Hello! I'm a Computer Science and Software Engineering student with a passion for creating efficient and innovative solutions. With an understanding of various languages including C, C++, Java, Python, HTML, CSS, and Javascript, I'm working towards specializing in web development. My projects illustrate my journey in learning and integrating different technologies to build responsive and intuitive web applications. Feel free to browse through my work, and let's connect to create the future of tech together.</p>
 
-<h1 align="center">Hi 👋, I'm Gabriel Siles</h1>
-<h3 align="center">A passionate software developer from Montreal,Canada</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsiles&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsiles" /> </p>
 
