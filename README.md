@@ -22,9 +22,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsiles&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsiles" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielsiles" alt="gabrielsiles" /></a> </p>
 
-- 🌱 I’m currently learning **C++, SQL and React**
+- 🌱 I’m currently learning **Ai, C++ and React**
 
 - 📫 How to reach me **gabsiles9@gmail.com**
 
